@@ -1,0 +1,14 @@
+{
+	"installed_packages":
+	[
+		"Package Control",
+		"Python IDE",
+		"SublimeClang",
+		"SublimeLinter",
+		"Theme - Soda"
+	],
+	"repositories":
+	[
+		"https://github.com/JulianEberius/SublimePythonIDE/"
+	]
+}
